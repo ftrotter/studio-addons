@@ -1,21 +1,8 @@
-# BotMan Studio Addons
 
-Addons used in combination with BotMan Studio.
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+This project is no longer maintained. 
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/botman/studio-addons.svg?style=flat-square)](https://packagist.org/packages/botman/studio-addons)
-[![Build Status](https://travis-ci.org/botman/studio-addons.svg?branch=master)](https://travis-ci.org/botman/studio-addons)
-[![codecov](https://codecov.io/gh/botman/studio-addons/branch/master/graph/badge.svg)](https://codecov.io/gh/botman/studio-addons)
+Please follow the instructions here to setup your [Laravel  instance without using studio](https://github.com/botman/botman/discussions/1308#discussioncomment-3008604). 
 
 
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within BotMan, please send an e-mail to Marcel Pociot at m.pociot@gmail.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-BotMan is free software distributed under the terms of the MIT license.
  
